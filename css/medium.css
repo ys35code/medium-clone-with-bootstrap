@@ -1,0 +1,39 @@
+body {
+    font-family: 'PT Serif', serif;
+}
+
+.bg-yellow {
+    background-color: #FFC017; 
+}
+
+.border-bottom-dark {
+    border-bottom: solid 1px rgba(41, 41, 41, 1);
+}
+
+.btn-dark {
+    border-radius: 99em;
+}
+
+.btn-light {
+    border-radius: 99em;
+    margin-bottom: 6px;
+    padding: 0px 8px;
+}
+
+.fa-arrow-trend-up {
+    border: solid 1px black;
+    border-radius: 50%;
+    padding: 3px;
+}
+
+.fa-magnifying-glass {
+    font-size: 250px;
+}
+
+.aside-button li {
+    margin-bottom: 10px;
+}
+
+.sticky-top{
+    top:95px;
+}
